@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sandipsinhjadeja
-- 👀 I’m interested in learning Github in relatio with Kubernetes and GCP
+- 👀 I’m interested in learning Github in relation with Kubernetes and GCP
 - 🌱 I’m currently learning CKA
 - 💞️ I’m looking to collaborate on Kubernetes
 - 📫 How to reach me ...sandipsinhjadeja@yahoo.com
